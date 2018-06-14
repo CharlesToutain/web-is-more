@@ -19,11 +19,7 @@ collections:
     folder: "site/content/" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
-    filter:
-      field: language
-      value: en
     fields: # The fields for each document, usually in front matter
-      - {label: "Language", name: "language"}
       - {label: "Petit_titre_des_familles", name: "title", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
 
