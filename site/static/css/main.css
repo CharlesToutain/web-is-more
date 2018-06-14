@@ -1,5 +1,6 @@
 @import url(font-awesome.min.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300italic,600italic,300,600");
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans|Roboto+Condensed');
 /*
 	Dimension by HTML5 UP
 	html5up.net | @ajlkn
@@ -113,6 +114,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.5;
   margin: 0 0 1rem 0;
   text-transform: uppercase;
+  font-family: 'Josefin Sans',sans-serif !important;
   letter-spacing: 0.2rem; }
   h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
     color: inherit;
