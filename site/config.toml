@@ -1,0 +1,40 @@
+baseurl = "/"
+title = "Web-is-more"
+theme = "dimension"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+disableKinds=["RSS"]
+
+[params]
+  description = 'We are, two developpers Full-stack localize in Basse-Normandie in Flers and Saint-lô<br />
+                <!--[-->We create a web site.<!--]-->'
+  logo = "fa-diamond"
+  copyright = "Untitled"
+
+[[params.social]]
+  medium = "facebook"
+  icon = "facebook"
+  link = "https://www.facebook.com/charlesedouard.toutain"
+
+[[params.social]]
+  medium = "instagram"
+  icon = "instagram"
+  link = "https://www.instagram.com/charlesedouardt/"
+
+[[params.social]]
+  medium = "linkedin"
+  icon = "linkedin"
+  link = "https://www.linkedin.com/in/charles-edouard-toutain/"
+
+[languages]
+[languages.en]
+languageName = "English"
+weight = 1
+
+[languages.fr]
+languageName = "Français"
+weight = 2
+title = "Web-is-more"
+description = '<!--[-->Nous sommes deux developpeurs Full-stack situés en Basse-Normandie à Flers et à Saint-Lö.<br />
+                <!--[-->Nous créons des sites web.<!--]-->'
