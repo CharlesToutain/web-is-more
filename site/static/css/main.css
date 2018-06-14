@@ -802,7 +802,8 @@ button {
     -ms-filter: blur(0.2rem);
     filter: blur(0.2rem); }
   body.is-loading #bg:before {
-    background-color: #000000; }
+    background-color: #120d16;
+    }
 
 /* Wrapper */
 #wrapper {
@@ -1065,7 +1066,7 @@ button {
     position: relative;
     width: 40rem;
     max-width: 100%;
-    background-color: rgba(27, 31, 34, 0.85);
+    background-color:#120d16;
     border-radius: 4px;
     opacity: 0; }
     #main article.active {
