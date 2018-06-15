@@ -12,20 +12,7 @@ disableKinds=["RSS"]
   logo = "fa-wikipedia-w"
   copyright = "Untitled"
 
-[[params.social]]
-  medium = "facebook"
-  icon = "facebook"
-  link = "https://www.facebook.com/charlesedouard.toutain"
 
-[[params.social]]
-  medium = "instagram"
-  icon = "instagram"
-  link = "https://www.instagram.com/charlesedouardt/"
-
-[[params.social]]
-  medium = "linkedin"
-  icon = "linkedin"
-  link = "https://www.linkedin.com/in/charles-edouard-toutain/"
 
 [languages]
 [languages.en]

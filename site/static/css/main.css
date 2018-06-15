@@ -118,7 +118,11 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0 0 1rem 0;
   text-transform: uppercase;
   font-family: 'Josefin Sans',sans-serif;
-  letter-spacing: 0.2rem; }
+  letter-spacing: 0.2rem;
+  background: linear-gradient(to right, #5e4fff 0%, #9c24ff 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
   h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
     color: inherit;
     text-decoration: none; }
@@ -440,9 +444,15 @@ input[type="radio"] + label:before {
   text-decoration: none;
   border-bottom: none;
   position: absolute;
-  margin-left:24%;
+}
+
+.icon_W {
+  text-decoration: none;
+  border-bottom: none;
+  position: absolute;
+  margin-left: 24%;
   margin-top: 5%;
-  font-size:70px;
+  font-size: 70px;
 }
   .icon:before {
     -moz-osx-font-smoothing: grayscale;
@@ -781,10 +791,10 @@ button {
     -webkit-transition-delay: 0.75s;
     -ms-transition-delay: 0.75s;
     transition-delay: 0.75s;
-    background: #5e4fff;
-    background: -webkit-radial-gradient( #5e4fff, #9c24ff);
-    background: radial-gradient( #5e4fff, #9c24ff);
-    z-index: 2; }
+    background: #120d16;
+    z-index: 2;
+    }
+
   #bg:after {
     -moz-transform: scale(1.125);
     -webkit-transform: scale(1.125);
@@ -793,13 +803,6 @@ button {
     -moz-transition: -moz-transform 0.325s ease-in-out, -moz-filter 0.325s ease-in-out;
     -webkit-transition: -webkit-transform 0.325s ease-in-out, -webkit-filter 0.325s ease-in-out;
     -ms-transition: -ms-transform 0.325s ease-in-out, -ms-filter 0.325s ease-in-out;
-    transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;
-   	  background: #5e4fff;
-   	  /* fallback for old browsers */
-   	  background: -webkit-radial-gradient( #5e4fff, #9c24ff);
-   	  /* Chrome 10-25, Safari 5.1-6 */
-   	  background: radial-gradient( #5e4fff, #9c24ff);
-   	  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     z-index: 1; }
   body.is-article-visible #bg:after {
     -moz-transform: scale(1.0825);
@@ -811,7 +814,7 @@ button {
     -ms-filter: blur(0.2rem);
     filter: blur(0.2rem); }
   body.is-loading #bg:before {
-    background-color: #120d16;
+    background-color: #000000;
     }
 
 /* Wrapper */
@@ -1195,3 +1198,6 @@ button {
   border-bottom: solid 2.8284px #ffffff;
   border-left: solid 2.8284px #ffffff;
 }
+
+
+
