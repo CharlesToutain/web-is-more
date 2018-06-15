@@ -1,5 +1,5 @@
 baseurl = "/"
-title = "Web-is-more"
+title = "Web is more, more that you think."
 theme = "dimension"
 languageCode = "en-us"
 defaultContentLanguage = "en"
@@ -9,7 +9,7 @@ disableKinds=["RSS"]
 [params]
   description = 'We are, two developpers Full-stack localize in Basse-Normandie in Flers and Saint-lô<br />
                 <!--[-->We create a web site.<!--]-->'
-  logo = "fa-diamond"
+  logo = "fa-wikipedia-w"
   copyright = "Untitled"
 
 [[params.social]]
