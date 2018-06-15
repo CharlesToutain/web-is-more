@@ -5,17 +5,15 @@
 
         <!-- Header -->
           <header id="header">
-            <div class="logo">
-              {{ with .Site.Params.logoimage }}
-              <img src="{{ . }}" width="100%" style="padding: 10px 10px 10px 10px;">
-            {{ end }}
-            {{ with .Site.Params.logo }}            
-              <span class="icon {{ . }}"></span>
-            {{ end }}
+            <div class="container_hexa">
+              <div class="hexagon">
+                <h2 class="icon">W</h2>
+              </div>
             </div>
             <div class="content">
               <div class="inner">
                 <h1>{{ .Site.Title | safeHTML }}</h1>
+                <h2>more that you think.</h2>
                 <p>{{ .Site.Params.description | safeHTML }}</p>
               </div>
             </div>
