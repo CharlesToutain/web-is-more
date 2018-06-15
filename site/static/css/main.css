@@ -439,7 +439,11 @@ input[type="radio"] + label:before {
 .icon {
   text-decoration: none;
   border-bottom: none;
-  position: relative; }
+  position: absolute;
+  margin-left:24%;
+  margin-top: 5%;
+  font-size:70px;
+}
   .icon:before {
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;
