@@ -12,7 +12,8 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
   padding: 0;
   border: 0;
   font-size: 100%;
-  vertical-align: baseline; }
+  vertical-align: baseline;
+}
 
 p, span{
   font-family: 'Roboto Condensed',sans-serif;
@@ -791,7 +792,7 @@ button {
     -webkit-transition-delay: 0.75s;
     -ms-transition-delay: 0.75s;
     transition-delay: 0.75s;
-    background: #120d16;
+    background: #000010;
     z-index: 2;
     }
 
