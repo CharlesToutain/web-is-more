@@ -1,5 +1,5 @@
 +++
-title = "Contact"
+title = "In touch"
 weight = 40
 draft = false
 +++
