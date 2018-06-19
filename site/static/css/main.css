@@ -1161,10 +1161,10 @@ button {
     opacity: 0; }
 
 /*# sourceMappingURL=main.css.map */
-.container_hexa:not(h2, .icon_W){
-  transform: rotate(30deg);}
 
-.hexagon {
+
+.hexagon{
+  transform: rotate(30deg);
   position: relative;
   width: 150px;
   height: 86.60px;
@@ -1172,6 +1172,9 @@ button {
   margin: 43.30px 0;
   border-left: solid 2px #5e4fff;
   border-right: solid 2px #5e4fff;}
+
+.icon_W{transform: rotate(-30deg);
+    margin-left: 30%;}  
 
 .hexagon:before,
 .hexagon:after {
