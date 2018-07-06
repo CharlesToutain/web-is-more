@@ -1,11 +1,8 @@
-+++
-title = "Formspree"
-weight = 60
-menuname = "Contact 2"
-draft = true
-+++
+---
+title: Formspree
+---
 
-<form id="contactform" method="post" action="https://formspree.io/insert.your@mail.adress">
+<form id="contactform" method="post" action="https://formspree.io/charles-edouard.toutain@outlook.fr">
 	<div class="field half first">
 		<input type="text" name="name" id="name" placeholder="Name"/>
 	</div>
