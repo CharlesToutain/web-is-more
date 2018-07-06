@@ -16,3 +16,4 @@ Nous assurons aussi la rédaction du cahier des charges et l'assistance à la sp
 ## Conception graphique
 
 Web-is-more dispose d'un graphiste afin de créer vos cartes de visites, flyers, affichages mais aussi vos visuels pour votre site, réseaux sociaux. Nous sommes attaché aux respects de votre charte graphique. Par ailleurs si vous n'avez pas encore créé votre identité graphique nous pouvons la créer pour vous et avec vous.
+
