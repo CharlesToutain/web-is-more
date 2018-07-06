@@ -1,12 +1,19 @@
-+++
-weight = 20
-draft = false
-date = "2017-03-02T11:59:05-05:00"
-title = "Services"
-
-+++
-
+---
+title: Services
+---
 {{< figure class="image main" src="/images/pic02.jpg" >}}
-Adipiscing magna sed dolor elit. Praesent eleifend dignissim arcu, at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent urna nisi, fringila lorem et vehicula lacinia quam. Integer sollicitudin mauris nec lorem luctus ultrices.
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet feugiat tempus.
+## Concepteur de sites web 
+
+Web-is-more assure la création graphique, le développement de votre site web, la mise en ligne et la maintenance.
+Si vous avez déjà un site web nous pouvons faire une refonte ou un suivi de projet, un audit.
+
+## Gestion de projet et marketing
+
+Web-is-more peut vous accompagner tout au long de votre projet web et vous aide à mettre en place votre stratégie marketing à travers différentes stratégies sur les réseaux sociaux notamment.
+Nous assurons aussi la rédaction du cahier des charges et l'assistance à la spécifications de vos besoins. 
+
+## Conception graphique
+
+Web-is-more dispose d'un graphiste afin de créer vos cartes de visites, flyers, affichages mais aussi vos visuels pour votre site, réseaux sociaux. Nous sommes attaché aux respects de votre charte graphique. Par ailleurs si vous n'avez pas encore créé votre identité graphique nous pouvons la créer pour vous et avec vous.
+
