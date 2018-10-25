@@ -1,13 +1,17 @@
-+++
-weight = 10
-date = "2017-03-02T10:54:38-05:00"
-title = "L'équipe"
-draft = false
-menuname = "L'équipe"
+---
+title: L'équipe
+---
+{{< figure class="image main" src="/images/pic03.jpg" >}}
 
-+++
+Nous sommes deux concepteurs de sites web, basé en Normandie nous sommes attachés à la relation avec nos clients et à la réponse à leurs besoins. Aujourd'hui être visible sur internet est indispensable pour la croissance de votre entreprise, c'est pour cela qu'il est indispensable d'avoir votre site web pour véhiculer l'image de votre marque.
 
-{{< figure class="image main" src="/images/pic01.jpg" >}}
-Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas. By the way, check out my [awesome work](#work).
+## Complémentarités
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.
+Nous avons décidés d'allier nos compétences complémentaires en travaillant à deux sur des projets afin de pouvoir offrir un service et des produits de qualités supérieurs. Nous communiquons donc de la même façon, cependant nous sommes attachés à la transparence et la simplicité c'est pour cela que vous n'aurez qu'un seul interlocuteur par projet afin de facilité les échanges.
+
+## Localisation
+
+Les entreprises de Normandie sont globalement en retards dans leurs transitions numériques, il est capital pour ses entreprises de communiquer à travers l'outil internet. Imaginez un instant qu'un client ou un prospect souhaite avoir des informations sur vos services, horaires, localisation et qu'il n'arrive pas à vous trouver sur internet... frustrant non ? 
+C'est pour cela que nous aimons travailler avec les entreprises locales de Basse-Normandie dans les départements Orne,Calvados et Manche afin de vous accompagner dans votre transitions et communication numérique. 
+
+Nous sommes situés dans respectivement à Saint-Lô et Flers, cependant nous intervenons dans toute la Basse-Normandie.
